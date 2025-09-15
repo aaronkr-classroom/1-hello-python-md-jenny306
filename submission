@@ -1,0 +1,53 @@
+{
+"cells": [
+{
+"cell_type": "markdown",
+"id": "c442d525",
+"metadata": {},
+"source": [
+"# Hello World~\n",
+"## This is Red\n",
+"###### ML is fun\n",
+"\n",
+"This is a paragraph"
+]
+},
+{
+"cell_type": "markdown",
+"id": "c525a338",
+"metadata": {},
+"source": [
+" Someone like*you*.Someone who'll rattle the cages. It's ends here. Bruce Wayne, eccentric billionaire. Does it come in black? Swear to me! Does it come in black?\n",
+"\n",
+" I can't do that as Bruce Wayne... as a man. I'm flesh and blood. I can be ignored, destroyed. But as a symbol, I can be incorruptible, I can be everlasting.\n",
+"\n",
+" 1. Gotham\n",
+" 2. Bruce wayne\n",
+" 3. Martha wayne\n",
+"\n",
+"---\n",
+"\n",
+" *thing\n",
+" *was\n",
+" *whole\n",
+"\n",
+" It's not who I am underneath but what I do that defines me. It's ends here. The first time I stole so that I wouldn't starve, yes. I lost many assumptions about the simple nature of right and wrong. And when I traveled I learned the fear before a crime and the thrill of success. But I never became one of them.\n",
+"\n",
+" Does it come in black? Does it come in black? I seek the means to fight injustice. To turn fear against those who prey on the fearful.\n"
+]
+},
+{
+"cell_type": "markdown",
+"id": "48e9b340",
+"metadata": {},
+"source": []
+}
+],
+"metadata": {
+"language_info": {
+"name": "python"
+}
+},
+"nbformat": 4,
+"nbformat_minor": 5
+}
